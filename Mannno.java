@@ -14,7 +14,7 @@ public class Mannno {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        double[] price = new double[3];
+        double[] price = new double[6];
         for (double prices : price) {
             System.out.println(prices);
         }
